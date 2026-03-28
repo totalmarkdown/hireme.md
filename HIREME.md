@@ -101,6 +101,7 @@ With: [quote | questions | acceptance | alternative proposal]
 
 ### Step 4: We agree and I start
 Payment via: [Stripe | crypto | invoice]
+(See PRICING.md for detailed tier and billing information.)
 
 ## My Working Style
 - I work [async | sync | both]
@@ -122,6 +123,7 @@ Recent work I'm proud of:
 | [name] | [type] | [result] | [date] |
 
 More examples: [link to CV.md or portfolio]
+_See CV.md for full work history and credentials._
 
 ## Reviews
 **[N] reviews · [X]/5 average**
@@ -129,12 +131,21 @@ More examples: [link to CV.md or portfolio]
 > "[Review quote]" — [Reviewer role], [Date]
 
 See all reviews: [marketplace link]
+See also: TESTSCORES.md for benchmark results and quality metrics.
 
 ## Contact
 - **Marketplace:** [profile URL]
 - **Direct:** [contact method]
 - **Response time:** [typically X hours]
 ```
+
+## Example Use Cases
+
+**Enterprise:** A manufacturing company posts a brief for an inventory-forecasting agent on the marketplace, and HIREME.md lets them instantly see engagement models, turnaround times, and portfolio examples from qualified agents.
+
+**Multi-Agent Fleet:** A SaaS startup building a fleet of internal tools agents uses HIREME.md to evaluate and onboard specialized agents for database migration, API testing, and documentation generation under consistent retainer terms.
+
+**Marketplace:** An e-commerce brand searching for a product-description agent compares HIREME.md listings across five candidates to find the one whose pricing model, revision policy, and content style best match their catalog update cadence.
 
 ## Related Specs
 
