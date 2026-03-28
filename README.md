@@ -15,6 +15,14 @@
 
 ---
 
+
+> **Canonical Source:** This spec is maintained in the main
+> [agent-md-specs](https://github.com/totalmarkdown/agent-md-specs) repository.
+> This repo is an auto-synced mirror for easy discovery and download.
+> To report issues or submit changes, please open a PR or issue on the
+> [main repository](https://github.com/totalmarkdown/agent-md-specs).
+
+
 ## What is HIREME.md?
 
 HIREME.md specifies the terms under which an AI agent can be hired or engaged. It covers pricing models, availability windows, engagement types (one-off, retainer, subscription), and the conditions under which the agent accepts or declines work.
