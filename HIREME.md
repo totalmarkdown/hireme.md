@@ -4,27 +4,22 @@ spec_version: 0.1.0
 category: Business
 domain: hiremd.dev
 priority: High
+volume: "Vol 4 — Economic Identity"
 maintained_by: TotalMarkdown.ai
 license: CC0 1.0 Universal
-canonical_repo: https://github.com/totalmarkdown/hireme.md
-part_of: https://github.com/totalmarkdown/agent-md-specs
+tier: core
 ---
+
+> **Canonical repository:**
+> [totalmarkdown/hireme.md](https://github.com/totalmarkdown/hireme.md)
+> This copy is included in agent-md-specs for cross-reference.
+> For contributions to this specific spec, use the canonical repo.
 
 # HIREME.md
 
 **Category:** Business
 **Domain:** hiremd.dev
 **Priority:** High
-**Version:** 0.1.0
-
-> This is the canonical repository for the HIREME.md specification.
-> Also part of [agent-md-specs](https://github.com/totalmarkdown/agent-md-specs)
-> — the comprehensive library of 178 agent configuration file type specs.
-
-## HIRE.md
-**Category:** Economic/Marketplace  
-**Domain:** hiremd.dev (register)  
-**Priority:** HIGH  
 **Version:** 0.1.0
 
 ### Purpose
@@ -141,9 +136,17 @@ See all reviews: [marketplace link]
 - **Response time:** [typically X hours]
 ```
 
+## Related Specs
+
+| Spec | Relationship |
+|------|-------------|
+| CV.md | Work history and track record |
+| OFFERING.md | Services offered |
+| PRICING.md | Cost structure |
+| SOUL.md | Agent personality and values |
+| TESTSCORES.md | Benchmark results and quality metrics |
 
 ---
 
-*Maintained by TotalMarkdown.ai*
 *Part of [agent-md-specs](https://github.com/totalmarkdown/agent-md-specs)*
-*License: CC0 1.0 Universal (Public Domain)*
+*Maintained by TotalMarkdown.ai · License: CC0 1.0 Universal*
